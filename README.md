@@ -1,12 +1,91 @@
 # 💫 About Me:
-I'm currently working on<br>Python projects and exploring Web Development<br>I'm looking to collaborate on <br>Open-source, AI, Python & Web Development projects<br>I'm looking for help with<br>Turning ideas to real-world projects <br>I'm currently leaning <br>Python , Git & Github , Web Development , AI<br>Ask me about <br>Python, projects or my CSE journey<br>Fun fact<br>I believe the best way to learn coding is to build
+### 💻 I'm Currently Working On
+- 🐍 Python projects
+- 🌐 Exploring Web Development
+
+### 🌱 I'm Looking Forward to Learning
+- 🤝 Open Source
+- 🤖 Artificial Intelligence (AI)
+- ☕ Java Development
+- 💻 Web Development Projects
+
+### 🆘 I'm Looking for Help With
+- 💡 Turning ideas into real-world projects
+- 🛠️ Improving my problem-solving and development skills
+
+### 📚 I'm Currently Learning
+- 🐍 Python
+- 🔧 Git & GitHub
+- 🌐 Web Development
+- 🤖 Artificial Intelligence (AI)
+
+- Improving my programming and problem-solving skills(DSA)
+- Understanding frontend and backend integration
+- Working with databases and REST APIs
+
+---
+
+## 🌐Socials & Connect
+
+<p align="left">
+  <a href="https://instagram.com/_aseem.s.01_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/aseem-singh-gaur-796068316">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/AseemSingh01">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:aseemsingh55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+💬 **Let's connect, learn, and build something amazing together!** 🚀
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,c" alt="Python, JavaScript, Java and C" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS and React" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Node.js, Express and Django" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, VS Code and IntelliJ IDEA" />
+</p>
+
+### 🔌 Other Technologies
+- REST APIs
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aseem.s.01_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aseem-singh-gaur-796068316) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AseemSingh01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aseemsingh55@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+## 🚀 My Developer Mindset
+
+> Learn continuously. Build consistently. Improve every day.
+
+I'm at the beginning of my development journey and excited to learn, experiment, collaborate, and grow through real-world projects.
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=aseem004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=aseem004&theme=dark&hide_border=false)<br/>
